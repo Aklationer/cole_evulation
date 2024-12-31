@@ -31,13 +31,13 @@
 ## Result 
 圖片檔名的編號對應作者在論文中圖片的編號
 
-<img src="result_graph/figure9-a.png" alt="result_graph/figure9-a.png" width="50%">
+<img src="result_graph/Figure9-a.png" alt="result_graph/figure9-a.png" width="50%">
 <img src="result_graph/figure9-b.png" alt="result_graph/figure9-b.png" width="50%">
 <img src="result_graph/figure10-a.png" alt="result_graph/figure10-a.png" width="50%">
 <img src="result_graph/figure10-b.png" alt="result_graph/figure10-b.png" width="50%">
 <img src="result_graph/figure11-a.png"  alt="result_graph/figure11-a.png" width="50%">
 <img src="result_graph/figure11-b.png" alt="result_graph/figure11-b.png" width="50%">
-<img src="result_graph/figure12-a.png" alt="result_graph/figure12-a.png" width="50%">
+<img src="result_graph/Figure12-a.png" alt="result_graph/figure12-a.png" width="50%">
 <img src="result_graph/figure12-a.png" alt="result_graph/figure12-b.png" width="50%">
 <img src="result_graph/figure13-a.png" alt="result_graph/figure13-a.png" width="50%">
 <img src="result_graph/figure13-b.png" alt="result_graph/figure13-a.png" width="50%">
