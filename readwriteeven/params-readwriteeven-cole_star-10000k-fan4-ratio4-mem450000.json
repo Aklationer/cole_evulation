@@ -1,0 +1,1 @@
+{"index_name": "cole_star", "contract_name": "kvstore", "scale": 10000000, "ycsb_path": "./readwriteeven/readwriteeven-data.txt", "ycsb_base_row_number": 100000, "num_of_contract": 10, "tx_in_block": 100, "db_path": "./readwriteeven/default_db", "mem_size": 450000, "size_ratio": 4, "epsilon": 23, "mht_fanout": 4, "result_path": "./readwriteeven/readwriteeven"}

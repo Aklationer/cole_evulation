@@ -1,0 +1,29 @@
+flag: false, write_index: 1, merge_index: 0
+write mem: 191577
+merge mem: 225000
+run_id_cnt: 65
+level 0: write index: 0, merge index: 1, flag: true
+write group: run_vec len: 2
+thread is some: false
+
+merge group: run_vec len: 4
+thread is some: true
+
+<Level Info> level_id: 0
+level 1: write index: 0, merge index: 1, flag: true
+write group: run_vec len: 3
+thread is some: false
+
+merge group: run_vec len: 4
+thread is some: true
+
+<Level Info> level_id: 1
+level 2: write index: 0, merge index: 1, flag: true
+write group: run_vec len: 1
+thread is some: false
+
+merge group: run_vec len: 0
+thread is some: false
+
+<Level Info> level_id: 2
+

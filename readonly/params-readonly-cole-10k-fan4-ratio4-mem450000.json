@@ -1,0 +1,1 @@
+{"index_name": "cole", "contract_name": "kvstore", "scale": 10000, "ycsb_path": "./readonly/readonly-data.txt", "ycsb_base_row_number": 100000, "num_of_contract": 10, "tx_in_block": 100, "db_path": "./readonly/default_db", "mem_size": 450000, "size_ratio": 4, "epsilon": 23, "mht_fanout": 4, "result_path": "./readonly/readonly"}

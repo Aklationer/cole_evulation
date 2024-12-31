@@ -1,0 +1,5 @@
+flag: false, write_index: 1, merge_index: 0
+write mem: 74746
+merge mem: 225000
+run_id_cnt: 1
+

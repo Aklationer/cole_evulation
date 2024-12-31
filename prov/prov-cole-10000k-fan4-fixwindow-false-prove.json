@@ -1,0 +1,7 @@
+{"window_size":2,"lb":100000,"ub":100001,"query_avg_latency":12181,"verify_avg_latency":10367,"vo_avg_size":4414}
+{"window_size":4,"lb":99998,"ub":100001,"query_avg_latency":13194,"verify_avg_latency":11962,"vo_avg_size":4644}
+{"window_size":8,"lb":99994,"ub":100001,"query_avg_latency":13207,"verify_avg_latency":11597,"vo_avg_size":5067}
+{"window_size":16,"lb":99986,"ub":100001,"query_avg_latency":14973,"verify_avg_latency":14232,"vo_avg_size":6279}
+{"window_size":32,"lb":99970,"ub":100001,"query_avg_latency":16872,"verify_avg_latency":19312,"vo_avg_size":8682}
+{"window_size":64,"lb":99938,"ub":100001,"query_avg_latency":21103,"verify_avg_latency":29869,"vo_avg_size":13766}
+{"window_size":128,"lb":99874,"ub":100001,"query_avg_latency":32530,"verify_avg_latency":51299,"vo_avg_size":24056}
