@@ -30,3 +30,14 @@
 
 ## Result 
 
+<img src="result_graph/Figure9-a.png" width="50%">
+<img src="result_graph/figure9-b.png" width="50%">
+<img src="result_graph/Figure10-a.png" width="50%">
+<img src="result_graph/Figure10-b.png" width="50%">
+<img src="result_graph/Figure11-a.png" width="50%">
+<img src="result_graph/Figure11-b.png" width="50%">
+<img src="result_graph/Figure12-a.png" width="50%">
+<img src="result_graph/Figure12-a.png" width="50%">
+<img src="result_graph/Figure13-a.png" width="50%">
+<img src="result_graph/Figure14-a.png" width="50%">
+
