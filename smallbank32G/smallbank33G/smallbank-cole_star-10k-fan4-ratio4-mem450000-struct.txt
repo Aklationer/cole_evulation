@@ -1,5 +1,0 @@
-flag: true, write_index: 0, merge_index: 1
-write mem: 11682
-merge mem: 0
-run_id_cnt: 0
-
